@@ -182,6 +182,7 @@ CREATE TABLE IF NOT EXISTS `vendedor` (
 --
 -- Volcado de datos para la tabla `vendedor`
 --
+--
 
 INSERT INTO `vendedor` (`id_usuario`) VALUES
 (2),
